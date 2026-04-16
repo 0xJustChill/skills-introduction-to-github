@@ -1,0 +1,1 @@
+Here will be the code of conduct for good collaboration
