@@ -1,0 +1,6 @@
+# Syntaxe: chemin   @utilisateur ou @équipe
+
+src/frontend/       @frontend-team
+src/backend/        @backend-team
+docs/               @charlie
+*.config.js         @devops-team
